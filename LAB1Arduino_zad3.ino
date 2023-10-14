@@ -1,4 +1,4 @@
-// w sposób łagodny będzie zmieniał kolory diody RGB w cyklu, na przykład, czerwony > zielony > niebieski > czerwony ..., wyświetlając kolory pośrednie
+// program będzie zmieniał kolory diody RGB w cyklu, czerwony > zielony > niebieski > czerwony ...
 #define LED_RED 6
 #define LED_GREEN 5
 #define LED_BLUE 3
