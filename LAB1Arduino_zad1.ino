@@ -1,4 +1,5 @@
-// Po naciśnięciu przycisku zielonego zmień kolor świecącej diody. Przycisk czerwony włącza i wyłącza świecenie.
+// LAB 1 ZAD 1
+//Po naciśnięciu przycisku zielonego zmień kolor świecącej diody. Przycisk czerwony włącza i wyłącza świecenie.
 #define LED_RED 6
 #define LED_GREEN 5
 #define LED_BLUE 3
