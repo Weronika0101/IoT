@@ -1,4 +1,5 @@
 // LAB 2 zadanie 2
+// dioda zielona, po przytrzymaniu przycisku zielonego dioda będzie rozjaśniała się, a po przytrzymaniu czerwonego będzie ściemniana
 #define LED_RED 6
 #define LED_GREEN 5
 #define LED_BLUE 3
