@@ -51,16 +51,10 @@ void initRGB() {
     }
 }
 
-// void initButtons()
-// {
-//     pinMode(RED_BUTTON, INPUT_PULLUP);
-//     pinMode(GREEN_BUTTON, INPUT_PULLUP);
-// }
 
 void setup()
 {
     initRGB();
-    // initButtons();
 }
 
 void loop()
@@ -75,10 +69,5 @@ void loop()
     //color_values[next_color] = increase_value(color_values[next_color]);
     analogWrite(color_pins[current_color], color_values[current_color]);
   }
-  //if(color_values[current_color]>200){
-    //increasing = true;
- //   current_color = next_color;
- ///   next_color = (current_color + 1) % number_of_colors;
- // }
-  delay(20); //działa
+  delay(20); 
 }
