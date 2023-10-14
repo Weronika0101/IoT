@@ -1,5 +1,5 @@
 //po naciśnięciu i zwolnieniu jednego z przycisków (zielony i czerwony) ma zgasić zaświeconą diodę
-//i zapalić kolejną dokładnie w cyklu R,G,B,R,G,... .
+//i zapalić kolejną dokładnie w cyklu R,G,B,R,G,... . dziala ??
 #define LED_RED 6
 #define LED_GREEN 5
 #define LED_BLUE 3
