@@ -1,6 +1,6 @@
 // Napisz program, który będzie działał jako stoper elektroniczny, 
 // podając czas na wyświetlaczu LCD. Klawisz zielony uruchamia
-// i zatrzymuje stoper.W międzyczasie upływa czas, tak że po ponownym uruchomieniu stopera wyśtwietla się czas zatrzymania+czas kory upłynął
+// i zatrzymuje stoper.W międzyczasie upływa czas, tak że po ponownym uruchomieniu stopera wyświetla się czas zatrzymania+czas ktory upłynął
 // Klawisz czerwony zatrzymuje stoper jeśli działał, 
 // i resetuje wartość czasu do wartości 0. Precyzja pomiaru
 // to 1 sekunda.
